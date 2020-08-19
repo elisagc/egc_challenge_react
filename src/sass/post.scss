@@ -1,0 +1,49 @@
+.posts-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
+
+  .item {
+    display: flex;
+    max-width: 550px;
+    margin: 20px 0;
+    box-shadow: 0 0px 53px rgba(4, 47, 68, 0.288);
+    border-radius: 5px;
+
+    @media only screen and (max-width: 500px) {
+      flex-direction: column;
+    }
+
+    &-img {
+      width: 100%;
+      img {
+        width: 100%;
+        height: 100%;
+        border-radius: 5px 0px 0 5px;
+        object-fit: cover;
+
+        @media only screen and (max-width: 500px) {
+          border-radius: 5px 5px 0 0;
+        }
+      }
+    }
+
+    &-info {
+      width: 100%;
+      h2 {
+        text-align: center;
+        margin: 20px;
+        font-size: 20px;
+      }
+
+      p {
+        margin: 20px;
+      }
+    }
+  }
+}

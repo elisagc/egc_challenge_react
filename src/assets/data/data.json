@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "_id": "5c8f6597744b270ce46e72bb",
+      "title": "¿Cómo elegir la esterilla de Pilates?",
+      "description": "Una de las dudas recurrentes cuando nos iniciamos en la práctica del Pilates es cómo escoger la esterilla adecuada. En el siguiente vídeo os muestro las características que tenéis que tener en cuenta para realizar la mejor elección.",
+      "url": "https://comunidad.decathlon.es/gym-pilates/opiniones-sobre/como-elegir-la-esterilla-de-pilates/5c7a5c30e0e11169d9a62e2e",
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "_id": "5c9275037936fc11df5592f3",
+      "title": "Cómo elegir tus zapatillas de baloncesto",
+      "description": "Nuestra gama de zapatillas de baloncesto cubre todos los usos, tanto de interior «Indoor» como de exterior «Outdoor» (por ej. asfalto, parquet), así como todas las posiciones de los jugadores (base, alero, centro). ",
+      "url": "https://comunidad.decathlon.es/baloncesto/opiniones-sobre/cmo-elegir-tus-zapatillas-de-baloncesto/5bc6087f882ff208f049b1e5",
+      "image": "https://images.unsplash.com/photo-1525916801717-9405b53a3246?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "_id": "123456",
+      "url": "https://comunidad.decathlon.es/equitacion/jinete/como-elegir-tus-botas-de-equitacion/5c72cf8e95b85040a01b57ee",
+      "description": "¡Hola deportistas! Soy Sonia, colaboradora de Decathlon Sebastián de los Reyes. Aquí os dejo un vídeo con tres consejos básicos para elegir tus botas de equitación. ¡Espero que os guste!",
+      "banner_image_id_url": "https://images.unsplash.com/photo-1512934772407-b292436089ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "title": "Cómo elegir tus botas de equitación"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+.main-container {
+  max-width: 1150px;
+}
+
+.title {
+  text-align: center;
+  background-color: rgb(0, 130, 195);
+  color: white;
+  margin: 50px 0;
+  padding: 10px;
+}
