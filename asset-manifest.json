@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/decathlon-challenge/static/css/main.0b07e331.chunk.css",
+    "main.js": "/decathlon-challenge/static/js/main.88122625.chunk.js",
+    "main.js.map": "/decathlon-challenge/static/js/main.88122625.chunk.js.map",
+    "runtime-main.js": "/decathlon-challenge/static/js/runtime-main.75824c01.js",
+    "runtime-main.js.map": "/decathlon-challenge/static/js/runtime-main.75824c01.js.map",
+    "static/css/2.fe62fa80.chunk.css": "/decathlon-challenge/static/css/2.fe62fa80.chunk.css",
+    "static/js/2.b5c5e693.chunk.js": "/decathlon-challenge/static/js/2.b5c5e693.chunk.js",
+    "static/js/2.b5c5e693.chunk.js.map": "/decathlon-challenge/static/js/2.b5c5e693.chunk.js.map",
+    "index.html": "/decathlon-challenge/index.html",
+    "precache-manifest.7c7814a9a4b08039d6773a392bf1bbcb.js": "/decathlon-challenge/precache-manifest.7c7814a9a4b08039d6773a392bf1bbcb.js",
+    "service-worker.js": "/decathlon-challenge/service-worker.js",
+    "static/css/2.fe62fa80.chunk.css.map": "/decathlon-challenge/static/css/2.fe62fa80.chunk.css.map",
+    "static/css/main.0b07e331.chunk.css.map": "/decathlon-challenge/static/css/main.0b07e331.chunk.css.map",
+    "static/js/2.b5c5e693.chunk.js.LICENSE.txt": "/decathlon-challenge/static/js/2.b5c5e693.chunk.js.LICENSE.txt",
+    "static/media/imagen1.jpg": "/decathlon-challenge/static/media/imagen1.4829f912.jpg",
+    "static/media/imagen2.jpg": "/decathlon-challenge/static/media/imagen2.e7c0eced.jpg",
+    "static/media/imagen3.jpg": "/decathlon-challenge/static/media/imagen3.63b11c4c.jpg",
+    "static/media/imagen4.jpg": "/decathlon-challenge/static/media/imagen4.5273d30d.jpg",
+    "static/media/imagen5.jpg": "/decathlon-challenge/static/media/imagen5.9ef36ac3.jpg",
+    "static/media/imagen6.jpg": "/decathlon-challenge/static/media/imagen6.e11aa483.jpg",
+    "static/media/slider_principal.jpg": "/decathlon-challenge/static/media/slider_principal.55f8a91d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75824c01.js",
+    "static/css/2.fe62fa80.chunk.css",
+    "static/js/2.b5c5e693.chunk.js",
+    "static/css/main.0b07e331.chunk.css",
+    "static/js/main.88122625.chunk.js"
+  ]
+}
